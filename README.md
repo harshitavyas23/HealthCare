@@ -1,3 +1,3 @@
 # HealthCare
 Website for Hospitals
-Our main motive is to connect all people to all types of doctor through a website.
+Our main motive is to connect all people to all types of doctor through a website made by us.
